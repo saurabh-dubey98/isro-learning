@@ -1,0 +1,18 @@
+.spacecrafts {
+    margin-top: 2rem;
+}
+
+.spacecraft-card h4 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #4D4C7D;
+    letter-spacing: 0.05rem;
+    line-height: 1.5rem;
+}
+.spacecraft-card h4 span {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #827397;
+    letter-spacing: 0.05rem;
+    line-height: 1.5rem;
+}

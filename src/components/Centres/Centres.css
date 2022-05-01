@@ -1,0 +1,24 @@
+.centres {
+    margin-top: 1.5rem;
+}
+
+.centres-card h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #B83B5E;
+    margin-bottom: 4px;
+}
+
+.centres-card > p:nth-child(2) {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #827397;
+    letter-spacing: 0.05rem;
+    line-height: 1.5rem;
+}
+.centres-card > p:nth-child(3) {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #827397;
+    letter-spacing: 0.05rem;
+}

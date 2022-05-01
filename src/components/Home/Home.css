@@ -1,0 +1,61 @@
+.homepage {
+    width: 100%;
+    /* overflow-x: hidden; */
+}
+
+.homepage-container {
+    width: 90%;
+    margin: auto;
+    padding: 12vh 1.5rem 1.5rem 1.5rem;
+}
+
+.mcq-section {
+    margin-top: 1rem;
+    margin-bottom: 1.7rem;
+}
+.mcq-section > h2 {
+    font-style: italic;
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: #393E46;
+}
+.mcq-section > p {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #827397;
+}
+
+.mcq-section > div {
+    margin-top: 0.8rem;
+}
+
+.mcq-section > div span a {
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #4D4C7D;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.05rem;
+  transition: all 300ms ease-in-out;
+  background-color: #f0e6e8;
+  margin-right: 10px;
+}
+
+.mcq-section > div span a:hover {
+    background-color: #E9D5DA;
+ }
+
+
+.isro-section > h2 {
+    font-style: italic;
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: #393E46;
+}
+.isro-section > p {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #827397;
+}

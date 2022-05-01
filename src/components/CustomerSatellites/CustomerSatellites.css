@@ -1,0 +1,25 @@
+.customer-satellites {
+    margin-top: 2rem;
+}
+
+.satellites-card h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #B83B5E;
+    margin-bottom: 7px;
+}
+
+.satellites-card> p {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #4D4C7D;
+    letter-spacing: 0.05rem;
+    line-height: 1.5rem;
+}
+.satellites-card> p span {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #827397;
+    letter-spacing: 0.05rem;
+    line-height: 1.5rem;
+}
